@@ -1,12 +1,23 @@
 <h1>Project proposal: SQL2NL</h1>
+<span>{
+    display:block;
+    text-indent:12px;
+    }
+    span samp{
+    display:block;
+    text-indent:24px;
+    font-family:initial;
+    }</span>
 <h2>Converting SQL to natural language</h2>
-<p>In this project, I want to explore the prospects of training a neural net to 
+<p>
+    <span>In this project, I want to explore the prospects of training a neural net to 
     generate natural language from SQL inputs used to query relational databases. i.e 
     Input SQL: SELECT SUM(SALES) FROM SALES WHERE SALES_DATE BETWEEN ... AND ... GROUP BY ...
     Output NL: "My total sales this month"
     I envision a training data set with a variety of SQL queries annotated with
     corresponding natural language questions, or any data set with a SQL and natural language one to one mapping. 
     The driving question would be: Could we document SQL queries in natural language using NLP/NLG and NN?
+</span>
 </p>
 <h2>Architecture </h2>
 <p>In order to generate logical natural language</p> 
