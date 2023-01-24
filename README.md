@@ -1,1 +1,1 @@
-Hi! Checkout my personal webpage on: [Kenneth](kennethochiyeng.github.io)
+Hi! Checkout my personal webpage on: [Kenneth](Kennethochiyeng.github.io)
